@@ -22,3 +22,20 @@ const mySkills = {
   tools: ["Git", "Docker", "VS Code", "Postman"],
   mobile: ["React Native", "Flutter"]
 };
+
+
+🌱 Current Focus
+🔗 Building robust APIs and microservices
+📱 Developing cross-platform mobile applications
+💰 Exploring fintech and payment solutions (Rely Tech)
+
+📫 Get In Touch
+📧 Email: qbancking@qmoney.tech
+
+
+💞️ Collaboration
+I'm open to:
+
+🤝 Meaningful open-source contributions
+🚀 Innovative startup projects
+🌍 Tech initiatives in Haiti and Caribbean region
